@@ -33,4 +33,4 @@ jobs:
     - name: deploying using surge
       run: surge./observant-finger.surge.sh --token ${{ secrets.SURGE_TOKEN }}
        
-{{
+
